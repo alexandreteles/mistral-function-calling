@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+.micromamba/
+.env
+
+# IDE
+.vscode/
+
+# Build
+build/
+dist/
+*.egg-info/
+*.egg

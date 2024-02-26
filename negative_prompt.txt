@@ -1,0 +1,30 @@
+bad anatomy
+bad hands
+three hands
+three legs
+bad arms
+missing legs
+missing arms
+poorly drawn face
+bad face
+fused face
+cloned face
+worst face
+three crus
+extra crus
+fused crus
+worst feet
+three feet
+fused feet
+fused thigh
+three thigh
+fused thigh
+extra thigh
+worst thigh
+missing fingers
+extra fingers
+ugly fingers
+long fingers
+extra eyes
+amputation
+disconnected limbs
